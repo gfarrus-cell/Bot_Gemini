@@ -1,0 +1,12 @@
+# Sensitive
+.env
+*.key
+*.pem
+*.p12
+*.token
+credentials*.json
+
+# Python
+__pycache__/
+*.pyc
+.cache/
